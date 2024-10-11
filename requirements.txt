@@ -1,0 +1,5 @@
+fastapi==0.95.0
+motor==2.5.1
+pydantic[email]
+uvicorn==0.21.1
+python-dotenv==1.0.0
